@@ -19,7 +19,7 @@ So I tried to pull the /etc/passwd
 
 ![e0b8c387b26dc3158937ba021ad89b8d.png](2c886ac6c2074d71b0b06b21b4afbcc9.png)
 
-And we got the responde on the clean-blog.css
+And the response was on the css file clean-blog.css
 
 ![808ca6e0f8cbddf2418dffac3c48d7c3.png](a104424575cc4a7284cdadad42f6da23.png)
 

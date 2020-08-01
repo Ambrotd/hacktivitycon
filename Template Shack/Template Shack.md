@@ -35,7 +35,7 @@ This added to the name of the challenge made me think about template injection a
 
 ![0ada9bdc9cc0f7636be6951b93d8ee7f.png](_resources/bc7b222a05394a07b2d0e41d87e9f0f7.png)
 
-So there is probably python running on the backgroung as this is a feature of flask jinja so lest find it out with ``{{ [].__class__.__base__.__subclasses__() }}``:
+So there is probably python running on the backgroung as this is a feature of flask jinja so let's find it out with ``{{ [].__class__.__base__.__subclasses__() }}``:
 
 ![1a41206868d5c17e10b3a8cf7044e622.png](_resources/f164d7016bf643edaba7377899c1188b.png)
 

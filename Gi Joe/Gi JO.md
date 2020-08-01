@@ -1,7 +1,7 @@
 ## GI Joe write up 
 
 There is a /cgi-bin/ and the apache and php is old so I decide to look for vulns
-I run nikto and it shows is vulnerable to /?-s this shows the source code of index.php
+I ran nikto and it shows is vulnerable to /?-s this shows the source code of index.php
 In the source code we can read that the flag is at /flag.txt
 Searching for the vulnerablility I found this post https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/php-cgi-exploitation-by-example/
 

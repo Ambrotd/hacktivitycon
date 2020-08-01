@@ -1,5 +1,3 @@
-Gi JO
-
 ## GI Joe write up 
 
 There is a /cgi-bin/ and the apache and php is old so I decide to look for vulns

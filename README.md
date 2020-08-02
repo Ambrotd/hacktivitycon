@@ -6,4 +6,4 @@ https://ctf.hacktivitycon.com/
 
 - [Special Order](Special%20Order/Special%20Order.md)
 - [GI Joe](Gi%20Joe/Gi%20JO.md)
-- [Template Shack](Template%20Shack/Template)%20Shack.md)
+- [Template Shack](Template%20Shack/Template%20Shack.md)

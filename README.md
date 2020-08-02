@@ -4,4 +4,4 @@ https://ctf.hacktivitycon.com/
 
 ### list of write ups:
 
-- [Special Order]("Special Order/Special Order.md")
+- [Special Order](Special%20Order/Special%20Order.md)

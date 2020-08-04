@@ -23,7 +23,7 @@ And the response was on the css file clean-blog.css
 
 ![808ca6e0f8cbddf2418dffac3c48d7c3.png](_resources/a104424575cc4a7284cdadad42f6da23.png)
 
-So I try with the flag.txt
+So I tried with the flag.txt
 
 ![1779fc44a47429a6f2472e80b6d681f7.png](_resources/aecf95e371e548db94c0904a8083c1ed.png)
 

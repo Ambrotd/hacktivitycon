@@ -14,20 +14,20 @@ Decoding it:
 
 
 
-No we have to create a new token and sign it using the jwt_tool:
+Now it's time to create a new token and sign it using the jwt_tool:
 
 ![e569e3c4d816e07a1b772e43a10ec4dd.png](_resources/27c86bb8667e43888b85f2fe27a54223.png)
 
-Using this tool we can change guest for admin and sign it with the key:
+Using the tool to change guest for admin and sign it with the key:
 
 ![67ab31baeab4bf5345583493879465ab.png](_resources/0d09dd7005ed411fa6e80dab4dec1292.png)
 
-now we have a jwt token with "admin" ``eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImFkbWluIn0.Ykqid4LTnSPZtoFb11H+/2q+Vo32g4mLpkEcajK0H7I``
+Our brand new jwt token with "admin" ``eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6ImFkbWluIn0.Ykqid4LTnSPZtoFb11H+/2q+Vo32g4mLpkEcajK0H7I``
 changing the token with this value gives us access to de admin panel:
 
 ![1b97e21508f7ed17c791a153c436aacb.png](_resources/cf524efaf471459a914df674074bf974.png)
 
-I noticed that inside the admin template when a webpage doesnt exists it renders de endpoint on the 404, for example if I look for /admin/abt.html I got:
+I noticed that inside the admin template when a webpage doesn't exists it renders the endpoint on the 404, for example if I look for /admin/abt.html I got:
 
 ![d26a25bb83b73a84cb913901c4a06eaa.png](_resources/ee4ef6fa2e3149428fcd900e2f90cb41.png)
 

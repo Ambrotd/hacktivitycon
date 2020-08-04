@@ -1,7 +1,7 @@
 
 
 ## Writeup Special Order by Ambrotd
-looking around the website and with the second order hint from the second order ecuation I was looking around and the only place I find I could do something was in customize
+Looking around the website and with the second order hint from the second order ecuation, the only place I find I could do something was in customize
 
 This was the request:
 
